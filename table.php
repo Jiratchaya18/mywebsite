@@ -56,7 +56,7 @@
         <td>4</td>
         <td>ต้นหน ตันติเวชกุล</td>
         <td>9o</td>
-        <td><img src="https://pbs.twimg.com/media/FKmAhFlXwAYtXyk?format=jpg&name=large"1px"></td>
+        <td><img src="https://pbs.twimg.com/media/FKmAhFlXwAYtXyk?format=jpg&name=small"1px"></td>
         <td><a href=https://twitter.com/Tonhonth"">twitter</a></td>         
  
                 
