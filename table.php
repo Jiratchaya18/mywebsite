@@ -15,6 +15,6 @@
         <td>1</td>
         <td>กฤตย์ จีรพัฒนานุวงศ์</td>
         <td>กิต</td>
-        <td><img src="https://i.pinimg.com/originals/fb/c3/04/fbc304de812f2428c36ad7a9eb57ea93.jpg"10px"></td>
+        <td><img src="https://i.pinimg.com/originals/fb/c3/04/fbc304de812f2428c36ad7a9eb57ea93.jpg"100px"></td>
         <td><a href="https://twitter.com/kittyumbs">twitter</a></td>
          
