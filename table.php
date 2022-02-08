@@ -43,6 +43,6 @@
         <td>3</td>
         <td>อนุโรจน์ เกตุเลขา</td>
         <td>เติร์ด</td>
-        <td><img src="https://pbs.twimg.com/media/FK-3DU5VcAIP3Kp?format=jpg&name=large"1px"></td>
+        <td><img src="https://pbs.twimg.com/profile_images/1484204449052913664/AFqc2Ni6_400x400.jpg"1px"></td>
         <td><a href="https://twitter.com/2nd__4th">twitter</a></td>         
         
