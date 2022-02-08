@@ -31,8 +31,7 @@
         <td>ตูน</td>
         <td><img src="https://pbs.twimg.com/profile_images/1480571616752922625/CVs_iWoB_400x400.jpg"1px"></td>
         <td><a href="https://twitter.com/Toonthreemando1">twitter</a></td>
-
-      <tr>
+<tr>
         <th>ลำดับ</th>
         <th>ชื่อ - นามสกุล</th>
         <th>ชื่อเล่น</th>
