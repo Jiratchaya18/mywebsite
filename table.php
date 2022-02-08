@@ -17,9 +17,4 @@
         <td>กิต</td>
         <td><img src="คุณกิต.jpg"130px"></td>
         <td><a href="https://twitter.com/kittyumbs">twitter</a></td>
-          <td>1</td>
-        <td>กฤตย์ จีรพัฒนานุวงศ์</td>
-        <td>กิต</td>
-        <td><img src="คุณกิต.jpg"130px"></td>
-        <td><a href="https://twitter.com/kittyumbs">twitter</a></td>
-
+         
