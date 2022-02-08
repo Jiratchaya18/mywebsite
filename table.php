@@ -17,12 +17,7 @@
         <td>กิต</td>
         <td><img src="https://pbs.twimg.com/profile_images/1285250959866642446/fhGudByH_400x400.jpg"1px"></td>
         <td><a href="https://twitter.com/kittyumbs">twitter</a></td>
-<html>
-  <head>
-    <title>ตารางของฉัน</title>
-  </head>
-  <body>
-    <table border="1">
+
       <tr>
         <th>ลำดับ</th>
         <th>ชื่อ - นามสกุล</th>
@@ -36,12 +31,7 @@
         <td>ตูน</td>
         <td><img src="https://pbs.twimg.com/profile_images/1480571616752922625/CVs_iWoB_400x400.jpg"1px"></td>
         <td><a href="https://twitter.com/Toonthreemando1">twitter</a></td>
-<html>
-  <head>
-    <title>ตารางของฉัน</title>
-  </head>
-  <body>
-    <table border="1">
+
       <tr>
         <th>ลำดับ</th>
         <th>ชื่อ - นามสกุล</th>
