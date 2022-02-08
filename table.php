@@ -67,7 +67,7 @@
       <tr>
         <td>5</td>
         <td>วิโอเลต วอเทียร์</td>
-        <td>;u</td>
+        <td>วี</td>
         <td><img src="https://pbs.twimg.com/profile_images/1428220844568838144/U_j9JXLy_400x400.jpg"1px"></td>
         <td><a href="https://twitter.com/violettewautier">twitter</a></td>          
              
