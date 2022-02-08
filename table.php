@@ -31,7 +31,7 @@
         <th>ทวิตเตอร์</th>
       </tr>
       <tr>
-        <td>1</td>
+        <td>2</td>
         <td>พีรพล เอี่ยมจำรัส</td>
         <td>ตูน</td>
         <td><img src="https://pbs.twimg.com/profile_images/1480571616752922625/CVs_iWoB_400x400.jpg"1px"></td>
@@ -50,7 +50,7 @@
         <th>ทวิตเตอร์</th>
       </tr>
       <tr>
-        <td>1</td>
+        <td>3</td>
         <td>อนุโรจน์ เกตุเลขา</td>
         <td>เติร์ด</td>
         <td><img src="https://pbs.twimg.com/media/FK-3DU5VcAIP3Kp?format=jpg&name=large"1px"></td>
