@@ -7,13 +7,13 @@
 				height: 350px;
 			}
 			.box{
-				background-color: black;
+				background-color: lightblue;
 			}
                         body{
-                                background-color: #FF3333;
+                                background-color: pink;
 			}
                         h1{
-                                color: #FFDAB9;
+                                color: yellow;
 			}
 		</style>
 	</head>
