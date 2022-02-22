@@ -10,7 +10,7 @@
     }
     @font-face{
       font-family: myFont2;
-      src: url("smile Regular-1 (2).woff")
+      src: url("smile-Regular-1 (2).woff")
     }
     #font1{
 	    font-family: myFont1; 
