@@ -6,7 +6,7 @@
   <style>
     @font-face{
       font-family: myFont1;
-      src: url("DM Weekend Regular (1).woff")
+      src: url("DM-Weekend-Regular-1.woff")
     }
     @font-face{
       font-family: myFont2;
